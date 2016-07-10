@@ -8,11 +8,13 @@ See [Gallery](https://github.com/zonination/pokemon-chart/blob/master/README.md#
 
 I noticed that the Pokemon weakness charts in sources like [here](http://pokemondb.net/type) and [here](http://bulbapedia.bulbagarden.net/wiki/Type#Type_chart) are, so to speak, "Not Very Effective" given that 5% of the population is red-green colorblind.
 
-For this reason, I decided to set up a series of Sequential and Diverging scales to assist with colorblindness below. These color palettes are courtesy of ColorBrewer2.org.
+For this reason, I decided to set up a series of Sequential and Diverging scales to assist with colorblindness below. These color palettes are courtesy of [Color Brewer](http://colorbrewer2.org).
 
 ## Gallery
 
 ### Sequential Scales
+
+For those of us who don't mind the super simple:
 
 ![YlOrRd](https://raw.githubusercontent.com/zonination/pokemon-chart/master/YlOrRd.png)
 
@@ -21,6 +23,8 @@ For this reason, I decided to set up a series of Sequential and Diverging scales
 ![RdPu](https://raw.githubusercontent.com/zonination/pokemon-chart/master/RdPu.png)
 
 ### Diverging Scales
+
+For those of us who prefer a color change for winning and losing:
 
 ![RdYlBu](https://raw.githubusercontent.com/zonination/pokemon-chart/master/RdYlBu.png)
 
