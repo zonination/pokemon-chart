@@ -2,7 +2,7 @@
 
 Last updated 2016-07-10.
 
-See [Gallery](https://github.com/zonination/pokemon-chart/edit/master/README.md#gallery) below.
+See [Gallery](https://github.com/zonination/pokemon-chart/blob/master/README.md#gallery) below.
 
 ## About
 
