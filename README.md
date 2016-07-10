@@ -34,7 +34,7 @@ For this reason, I decided to set up a series of Sequential and Diverging scales
 4. Under "Natue of your data", select either "Sequential" or "Diverging".
 5. Choose a palette you like. The name will appear in the information bar (e.g. "4-class GnBu").
 6. Go to the code and edit line 29. Paste your palette name.
-7. Run the code in R. You now have your new palette.
+7. Run the code in RStudio, and export the image to 900x600. You now have your new Pokemon chart.
 
 ## Information
 
