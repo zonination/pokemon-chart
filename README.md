@@ -18,11 +18,15 @@ For this reason, I decided to set up a series of Sequential and Diverging scales
 
 ![YlGn](https://raw.githubusercontent.com/zonination/pokemon-chart/master/YlGn.png)
 
+![RdPu](https://raw.githubusercontent.com/zonination/pokemon-chart/master/RdPu.png)
+
 ### Diverging Scales
 
 ![RdYlBu](https://raw.githubusercontent.com/zonination/pokemon-chart/master/RdYlBu.png)
 
 ![PRGn](https://raw.githubusercontent.com/zonination/pokemon-chart/master/PRGn.png)
+
+![PuOr](https://raw.githubusercontent.com/zonination/pokemon-chart/master/PuOr.png)
 
 ## How to Choose Your Own Colors
 
